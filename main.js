@@ -11,7 +11,7 @@
    }
    else{
     am_or_pm.innerHTML='AM';
-
+// eeeeeeeeeeeeeeee
    }
    if (hours>12){
      hours=hours-12;
